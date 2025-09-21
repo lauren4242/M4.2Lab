@@ -1,8 +1,7 @@
-# web-dev-starter
+# Bird Watching Site
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+    This is a website displaying a fake bird watching site, including favorite
+bird photos, links to other pages, and a welcome message.
 
 ## Getting Started
 
@@ -27,3 +26,10 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+Note: no additional tests were added
+
+## Sources
+
+Inverting photo colors: https://www.w3schools.com/CSSref/func_invert.php
+Using CSS Grids: https://www.youtube.com/watch?v=Y9rHsdCxU8Q
