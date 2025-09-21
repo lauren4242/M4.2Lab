@@ -1,7 +1,8 @@
 # Bird Watching Site
 
-    This is a website displaying a fake bird watching site, including favorite
-bird photos, links to other pages, and a welcome message.
+This is a website displaying a fake bird watching site, including favorite
+bird photos, links to other pages, and a welcome message. It uses a CSS
+grid layout to place the elements.
 
 ## Getting Started
 
